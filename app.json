@@ -1,0 +1,15 @@
+{
+  "name": "dailydashboard",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
