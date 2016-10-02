@@ -11,3 +11,5 @@ class Area(models.Model):
 
 class TestArea(models.Model):
 	field = models.CharField(max_length=1)
+	newfield1 = models.CharField(max_length=2, null=True)
+	newfield2 = models.CharField(max_length=2, null=True)
